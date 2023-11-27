@@ -1,8 +1,8 @@
-prefix=D:/DO_AN/mlproject/venv/Library
-exec_prefix=D:/DO_AN/mlproject/venv/Library
-libdir=D:/DO_AN/mlproject/venv/Library/lib
-sharedlibdir=D:/DO_AN/mlproject/venv/Library/lib
-includedir=D:/DO_AN/mlproject/venv/Library/include
+prefix=d:/DO_AN/mlproject/venv/Library
+exec_prefix=d:/DO_AN/mlproject/venv/Library
+libdir=d:/DO_AN/mlproject/venv/Library/lib
+sharedlibdir=d:/DO_AN/mlproject/venv/Library/lib
+includedir=d:/DO_AN/mlproject/venv/Library/include
 
 Name: zlib
 Description: zlib compression library
