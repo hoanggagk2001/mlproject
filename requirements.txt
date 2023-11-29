@@ -7,4 +7,6 @@ catboost
 xgboost
 Flask
 dill 
+typing 
+pickle
 -e .
